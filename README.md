@@ -1,3 +1,3 @@
 # TCA-Website
 
-This is a website for TCA. Note: This repo only contains the HTML files of the website :)
+This is the source code of the TCA website https://thecodingacademy.xyz
